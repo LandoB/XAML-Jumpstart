@@ -1,0 +1,2 @@
+C:\Users\bernalr\Downloads\xaml-jumpstart\1-xaml-jumpstart-m1-introduction-exercise-files\XAMLJumpstart\bin\Debug\XAMLJumpstart.exe.config
+C:\Users\bernalr\Documents\GitHub\XAML-Jumpstart\xaml-jumpstart\1-xaml-jumpstart-m1-introduction-exercise-files\XAMLJumpstart\bin\Debug\XAMLJumpstart.exe.config
